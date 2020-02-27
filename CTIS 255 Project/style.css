@@ -1,0 +1,131 @@
+
+
+body{ 
+    background: url(img/back.png); 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: cover; 
+    height: 680px; 
+    padding-top: 20px; 
+}
+
+#back1{ 
+    background: url(img/back2.jpeg); 
+    width: 555px; 
+    height: 555px; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: cover;
+    border: 7px solid black;
+    margin: 0 auto; 
+}
+
+#menu{ 
+    position: absolute; 
+    width: 410px;
+    height: 255px; 
+    border-radius: 50px; 
+    background: url(img/menuback.jpg);
+    top: -300px; 
+    left: 39%; 
+    border: solid 4px black; 
+    text-align: center; 
+} 
+
+#profil{
+    width: 150px; 
+    height: 150px; 
+    border-radius: 100px; 
+    margin-top: 20px ;
+    margin-left: 10px;
+    border: 2px solid black; 
+    }
+
+#menuIn{ 
+    font-family:sans-serif;
+        margin: 0 auto; 
+    }
+
+#start{ 
+    margin-top: 10px; 
+    width: 55%;
+    opacity: 60%;
+}
+
+#start:hover{
+    opacity: 100%;
+}
+
+#diff{ 
+    width: 70px; 
+    height: 30px;
+    background-color:aqua; 
+    font-size: large;
+    border: 2px solid black;
+}
+
+.slot{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    background: rgb(255, 234, 44);
+    border: 4px dashed rgb(0, 0, 0);
+    text-align: center;
+}
+
+.slot:hover{
+    border: 4px dashed white;
+}
+
+.write{
+    font-size: 80px;
+    color: black;
+}
+
+#label{
+    margin: 0 auto; 
+    background-color: rgb(255, 255, 255, 0.5);
+    width: 569px;
+    padding: 30px 0;
+}
+
+#level{
+    font-size: 30px;
+    color: black;
+}
+
+#stat{
+    font-weight: bold;
+    font-size: 60px;
+}
+
+
+#one{ margin-top: 10px; margin-left: 10px; visibility: hidden;}
+#two{ margin-top: 10px; margin-left: 120px; visibility: hidden;}
+#three{ margin-top: 10px; margin-left: 230px; visibility: hidden;}
+#four{ margin-top: 10px; margin-left: 340px; visibility: hidden;}
+#five{ margin-top: 10px; margin-left: 450px; visibility: hidden;}  
+
+#six{ margin-top: 120px; margin-left: 10px; visibility: hidden;} 
+#seven{ margin-top: 120px; margin-left: 120px; visibility: hidden;}
+#eight{ margin-top: 120px; margin-left: 230px; visibility: hidden;}
+#nine{ margin-top: 120px; margin-left: 340px; visibility: hidden;}
+#ten{ margin-top: 120px; margin-left: 450px; visibility: hidden;}     
+
+#eleven{ margin-top: 230px; margin-left: 10px; visibility: hidden;} 
+#twelve{ margin-top: 230px; margin-left: 120px; visibility: hidden;}
+#thirteen{ margin-top: 230px; margin-left: 230px; visibility: hidden;}
+#fourteen{ margin-top: 230px; margin-left: 340px; visibility: hidden;}
+#fiftteen{ margin-top: 230px; margin-left: 450px; visibility: hidden;} 
+
+#sixteen{ margin-top: 340px; margin-left: 10px; visibility: hidden;}     
+#seventeen{ margin-top: 340px; margin-left: 120px; visibility: hidden;} 
+#eightteen{ margin-top: 340px; margin-left: 230px; visibility: hidden;}
+#nineteen{ margin-top: 340px; margin-left: 340px; visibility: hidden;}
+#twenty{ margin-top: 340px; margin-left: 450px; visibility: hidden;}
+
+#twentyone{ margin-top: 450px; margin-left: 10px; visibility: hidden;}     
+#twentytwo{ margin-top: 450px; margin-left: 120px; visibility: hidden;} 
+#twentythree{ margin-top: 450px; margin-left: 230px; visibility: hidden;}
+#twentyfour{ margin-top: 450px; margin-left: 340px; visibility: hidden;}
+#twentyfive{ margin-top: 450px; margin-left: 450px; visibility: hidden;}      
